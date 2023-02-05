@@ -390,6 +390,7 @@ for x in [
     'tabby2greys', 'tabby2greysextra', 'tickedgreys', 'tickedgreysextra', 'speckled2greys', 'speckled2greysextra',
     'stains', 'stainsextra', 'greysstains', 'greysstainsextra', 'brownsstains', 'brownsstainsextra', 'tortiecombo', 'tortiecomboextra',
     'tortievoisokoke', 'tortievoisokokeextra', 'voisokoke', 'voisokokeextra', 'voisokokegreys', 'voisokokegreysextra', 'voisokokebrowns' , 'voisokokebrownsextra',
+    'brownsagouti', 'brownsextraagouti', 'greyagouti', 'greysextraagouti',
     
     'bat_lineart', 'bat_lineartdead', 'bat_lineartdf',
     'bat_singlecolours', 'bat_singleextra', 'bat_tabbycolours', 'bat_tabbyextra', 'bat_speckledcolours', 'bat_speckledextra', 'bat_tortiecolours', 'bat_tortiesextra',
