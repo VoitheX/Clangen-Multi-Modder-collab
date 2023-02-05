@@ -608,10 +608,10 @@ def choose_pelt(colour=None, white=None, pelt=None, length=None, category=None, 
             return Sokoke(colour, white, length)
     elif pelt == 'Agouti':
         if colour is None and white is None:
-            return Agouti(choice(pelt_colours), choice([False, True]),
+            return Agouti(choice(all_colours), choice([False, True]),
                              length)
         elif colour == None:
-            return Agouti(choice(pelt_colours), white, length)
+            return Agouti(choice(all_colours), white, length)
         else:
             return Agouti(colour, white, length)
     elif pelt == 'Singlestripe':
